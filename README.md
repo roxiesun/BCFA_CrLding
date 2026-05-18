@@ -1,4 +1,4 @@
-# Code for HMedCox
+# Code for identifying cross-loadings in BCFA with five regularization priors
 Authors: Junhao Pan, Xinyu Qiao, Rongqian Sun, and Edward Hak-Sing Ip
 
 Paper link: tbc
